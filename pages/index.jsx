@@ -12,7 +12,7 @@ export default function Home() {
     <div className={styles.container}>
       <h1 className={styles.h3}>[传说] 破旧的按钮</h1>
       <p>
-        一个不起眼的Web3按钮，点击后会收到各大WEB3平台的倾情ETH赞助。<br/>
+        一个不起眼的Web3按钮，点击后会收到各大WEB3平台的<a href="https://polygonscan.com/address/0x77c6d4c010eaef7c0dc0080f78ded522ab58a926#tokentxns">倾情ETH赞助</a>。<br/>
         
         传说深渊中的禁忌之子已经暴富，<br/>
         总有一天会在深渊的边界现身，<br/>
