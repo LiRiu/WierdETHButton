@@ -39,7 +39,7 @@ export default function ThirdwebGuideFooter() {
           style={{ cursor: "pointer" }}
           onClick={() =>
             window.open(
-              "https://github.com/thirdweb-example/nft-gated-website",
+              "https://github.com/LiRiu/WierdETHButton",
               "_blank"
             )
           }
