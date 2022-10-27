@@ -14,9 +14,8 @@ export default function Home() {
       <p>
         一个不起眼的Web3按钮，点击后会收到各大WEB3平台的<a href="https://polygonscan.com/address/0x77c6d4c010eaef7c0dc0080f78ded522ab58a926#tokentxns">倾情ETH赞助</a>。<br/>
         
-        传说深渊中的禁忌之子已经暴富，<br/>
-        总有一天会在深渊的边界现身，<br/>
-        但是寻找禁忌之子的人早已不在...<br/>
+        传说某首席安全研究员已经暴富，<br/>
+        总有一天会在中产阶级的边界现身，<br/>
 
       </p>
         <Web3Button
